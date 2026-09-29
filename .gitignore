@@ -1,0 +1,15 @@
+# Exclude the following
+Data/*
+Stimuli/*
+.DS_Store
+
+# specific files 
+Scripts/Stimulus_generation_scripts/PlacePath_counterbalancing.csv
+
+# exception to the rule
+!Data/README.txt 
+!Stimuli/test_display.jpeg
+!Stimuli/README.txt
+!Stimuli/StatLearningStimuli/
+!Stimuli/Retinotopy_SF/
+!Stimuli/RetinotopyStimuli
